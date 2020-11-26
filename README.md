@@ -4,10 +4,15 @@ The repository contains a **Convolutional Neural Network (CNN)-model buildt to c
 The purpose of this project is the academic learning of adressing a machine learning task.
 
 ### Running the application 
-The application can be run with a Virtual Machine, the following setup is with Google Colab: 
+The model can be run with a Virtual Machine, the following setup is with Google Colab: 
 
 First you have to upload the dataset from kaggle on Google Drive:
 https://www.kaggle.com/ciplab/real-and-fake-face-detection
+
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/elisabethnetland/tdt4173/blob/main/project.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    }
 
 **Fetch the dataset from Google Colab**
 
