@@ -1,4 +1,4 @@
-# Project
+# TDT4173 - Assignment 3
 This project is one of the deliverables in the couse TDT4173 - Machine Learning at NTNU conducted by a group of three students. 
 \
 The repository contains a **CNN model built to classify real and artificial images of human faces**. 
