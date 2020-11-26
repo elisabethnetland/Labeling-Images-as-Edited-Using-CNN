@@ -6,13 +6,11 @@ The purpose of this project is the academic learning of adressing a machine lear
 ### Running the application 
 The model can be run with a Virtual Machine, the following setup is with Google Colab: 
 
-First you have to upload the dataset from kaggle on Google Drive:
-https://www.kaggle.com/ciplab/real-and-fake-face-detection
+1. First you have to upload the dataset from kaggle on Google Drive: https://www.kaggle.com/ciplab/real-and-fake-face-detection
 
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/elisabethnetland/tdt4173/blob/main/project.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    }
+2. Then you have to open the CNN model in your virtual machine (here Google Colab), by pressing this button --> 
+
+3. You need to fetch the dataset from Google Drive to Google Colab. This procedure is presented below. 
 
 **Fetch the dataset from Google Colab**
 
